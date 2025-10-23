@@ -15,6 +15,7 @@ public class Bai1515 {
 
         // In kết quả ra màn hình
         System.out.println("UCLN cua " + a + " va " + b + " la: " + gcd);
+        sc.close();
     }
 
     // Hàm tìm UCLN

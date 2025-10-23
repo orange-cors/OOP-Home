@@ -10,6 +10,7 @@ public class Bai1516 {
         } else {
             System.out.println(n + " khong phai so nguyen to");
         }
+        sc.close();
     }
 
     // Kiem tra snt bang de quy
