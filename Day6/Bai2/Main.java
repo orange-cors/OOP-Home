@@ -1,6 +1,6 @@
 package Day6.Bai2;
 
-import java.util.Arrays;
+// import java.util.Arrays;
 
 /**
  * Lớp Book: Đại diện cho một cuốn sách.
