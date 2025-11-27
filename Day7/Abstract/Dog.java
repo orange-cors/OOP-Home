@@ -1,4 +1,4 @@
-package Day7;
+package Day7.Abstract;
 
 public class Dog extends Animal {
 

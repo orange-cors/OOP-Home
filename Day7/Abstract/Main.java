@@ -1,4 +1,4 @@
-package Day7;
+package Day7.Abstract;
 
 public class Main {
     public static void main(String[] args) {
